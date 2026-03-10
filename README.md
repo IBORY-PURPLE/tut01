@@ -28,9 +28,7 @@ greet("송채우")
 ```
 
 ## 링크와 이미지
-Link: [Google][googlelink]
-
-[googlelink] : https://google.com "Go google"
+Link: [Google](https://google.com, "google link")
 
 
 ## TO DO
