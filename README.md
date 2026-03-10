@@ -31,7 +31,7 @@ greet("송채우")
 Link: [Google](https://google.com, "google link")
 
 귀여운 고양이 이미지:
-!["고양이 사진"]("\chewo\Downloads\11.jpeg")
+<img src="\Users\chewo\Downloads\11.jpeg"></img>
 
 
 
