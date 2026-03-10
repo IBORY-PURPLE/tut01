@@ -28,7 +28,9 @@ greet("송채우")
 ```
 
 ## 링크와 이미지
-Link: [Google](https://google.com, "google link")
+## 귀여운 고양이
+
+![cat](http://images.cocodataset.org/val2017/000000039769.jpg)
 
 귀여운 고양이 이미지:
 <img src="\Users\chewo\Downloads\11.jpeg"></img>
