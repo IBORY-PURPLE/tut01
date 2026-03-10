@@ -25,6 +25,7 @@ def greet(name):
   print(f"안녕하세요. {name}님!")
 
 greet("송채우")
+```
 
 ## 링크와 이미지
 Link: [Google][googlelink]
