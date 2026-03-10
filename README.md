@@ -31,7 +31,7 @@ greet("송채우")
 Link: [Google](https://google.com, "google link")
 
 귀여운 고양이 이미지:
-!["고양이 사진"](https://placekitten.com/400/300)
+!["고양이 사진"]("C:\Users\chewo\Downloads\11.jpeg")
 
 ## TO DO
 - [] markdown 문법 배우기
